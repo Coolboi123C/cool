@@ -60,6 +60,11 @@ class ChartingState extends MusicBeatState
 		'',
 		'Alt Animation',
 		'Hey!',
+		'Parry Note',
+		'Sin Note',
+		'Orange Bone ',
+		'Ink Note',
+		'Blue Bone',
 		'Hurt Note',
 		'GF Sing',
 		'No Animation'
